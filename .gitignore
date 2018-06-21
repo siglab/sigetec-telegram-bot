@@ -1,3 +1,5 @@
 # Dependency directories
 src/node_modules/
 
+# Config directories
+src/config/projectConfig.js
