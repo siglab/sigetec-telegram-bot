@@ -1,0 +1,16 @@
+{
+  "name": "sigetecbot",
+  "version": "1.0.0",
+  "description": "This is a bot created to respond some SIGETEC database queries. Tho know more about SIGETEC project check https://sigetec.univalle.edu.co",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Julian Rodriguez",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.30.0",
+    "nodemailer": "^4.6.3",
+    "request-promise": "^4.2.2"
+  }
+}
