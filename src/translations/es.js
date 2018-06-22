@@ -13,7 +13,7 @@ let translations = {
 	foundPatentsCountry: 'País: ',
 	foundPatentsDescription: 'Descripción: ',
 	foundPatentsDetails: 'Detalles de patentes encontradas: ',
-	foundPatentsPerCountry: ['Patentes encontradas registradas en ', 'Paara más detalles acerca de las patentes encontradas para este país use el comando '],
+	foundPatentsPerCountry: ['Patentes encontradas registradas en ', 'Para más detalles acerca de las patentes encontradas para este país use el comando '],
 	foundPatentsResearcher: 'Investigador principal: ',
 	help: '',
 	hi: 'Hola',

@@ -2,4 +2,4 @@
 src/node_modules/
 
 # Config directories
-src/config/projectConfig.js
+src/config/
