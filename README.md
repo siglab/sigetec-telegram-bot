@@ -59,7 +59,7 @@ const config = {
 To run the bot use nodejs command to execute the index.js file at src folder.
 
 ```
-node sigetec-telegram-bot/src/index.js
+node sigetec-telegram-bot/src/bot.js
 ```
 
 ## Deployment

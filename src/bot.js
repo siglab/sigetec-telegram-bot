@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 /**
   * Created by: Julian Rodriguez
   * Description: Telegram bot main application. Bot commands receiver.
