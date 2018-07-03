@@ -6,7 +6,7 @@ const translations = {
 	attachmentWarning: 'You must to do a search before in order to use this command',
 	cmdError: 'There is an error in the provided command. Please chek the command and try it again.',
 	default: 'I don\'t recognize the command. Type /help to know the available commands',
-	endprocess: 'Those are all the details of the found patents. Use the / start command to start a new search.',
+	endprocess: 'Those are all the details of the found patents. Use the /start command to start a new search.',
 	error1: 'Please don\'t send files or photos, I can\'t do anything with them',
 	error2: 'I can not get the patents at this moment. Please try again later',
 	foundPatentsAttachment: 'Attachment: ',

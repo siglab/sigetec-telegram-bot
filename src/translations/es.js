@@ -6,7 +6,7 @@ let translations = {
 	attachmentWarning: 'Usted debe realizar una búsqueda primero para poder utilizar este comando.',
 	cmdError: 'Hay un error en el comando. Por favor revise el comando ingresado e inténtelo de nuevo.',
 	default: 'No reconozco el comando, por favor utilice /help para conocer los comandos disponibles',
-	endprocess: 'Esos son todos los detalles de las petentes encontradas.',
+	endprocess: 'Esos son todos los detalles de las petentes encontradas. Utilice el comando /start para comenzar una nueva búsqueda.',
 	error1: 'Por favor, no envíes fotos o archivos, no puedo hacer nada con ellos',
 	error2: 'No puedo obtener las patantes en este momento. Por favor intenta de nuevo más tarde',
 	foundPatentsAttachment: 'Adjunto: ',
