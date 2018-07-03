@@ -4,7 +4,7 @@ let translations = {
 	attachmentError: 'No es posible obtener el archivo adjunto en este momento. Por favor inténtelo de nuevo más tarde.',
 	attachmentNotFound: ['El resultado anterior no tiene ninguna patente con el id ', ' y un documento adjunto.'],
 	attachmentWarning: 'Usted debe realizar una búsqueda primero para poder utilizar este comando.',
-	cmdError: 'Hay un error en el comando. Por favor revise el comando ingresado en inténtelo de nuevo.',
+	cmdError: 'Hay un error en el comando. Por favor revise el comando ingresado e inténtelo de nuevo.',
 	default: 'No reconozco el comando, por favor utilice /help para conocer los comandos disponibles',
 	endprocess: 'Esos son todos los detalles de las petentes encontradas.',
 	error1: 'Por favor, no envíes fotos o archivos, no puedo hacer nada con ellos',
